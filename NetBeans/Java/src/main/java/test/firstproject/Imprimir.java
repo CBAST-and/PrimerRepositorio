@@ -10,7 +10,7 @@ package test.firstproject;
  */
 public class Imprimir {
     public static void main (String[] args) {
-        System.out.println("Sebastian Pilier Mercedes");
-        System.out.println("20240132@itla.edu.do");
+        System.out.println("Nombre");
+        System.out.println("20240000@itla.edu.do");
     }
 }
